@@ -1,10 +1,7 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Página de login do instagram
+Reconstrução básica da página de login do instagram
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Fazer a página de login do instagram foi um projeto de estudo e aprendizado que realizei nas aulas de HTML e CSS da plataforma da DIO (Digital Innovation One),
+onde aprendi os conceitos básicos do HTML e do CSS.
 
-### Os requisitos são:
-
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-
-## 🚀 Let's code! 🚀
+* Aqui esta o link para a plataforma -> [DIO](https://www.dio.me/)
